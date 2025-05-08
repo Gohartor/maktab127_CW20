@@ -1,12 +1,6 @@
 package org.example;
 
-import com.github.javafaker.Faker;
-import lombok.Builder;
-import org.example.qusetion05.ApplicationContextEager;
-import org.example.qusetion06.User;
-
-import java.sql.Connection;
-import java.time.LocalDate;
+import org.example.question06.User;
 
 public class Main {
     public static void main(String[] args) {

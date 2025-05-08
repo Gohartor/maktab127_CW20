@@ -1,4 +1,4 @@
-package org.example.qusetion05;
+package org.example.question05;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

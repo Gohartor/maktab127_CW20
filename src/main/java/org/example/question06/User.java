@@ -1,13 +1,10 @@
-package org.example.qusetion06;
+package org.example.question06;
 
-import com.github.javafaker.Name;
 import lombok.Builder;
 import lombok.NonNull;
 import lombok.ToString;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.Date;
 
 @ToString
 @Builder
